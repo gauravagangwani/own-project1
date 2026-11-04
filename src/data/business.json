@@ -1,0 +1,18 @@
+[
+  {
+    "id": "entrepreneurship-interest",
+    "title": "Entrepreneurship and product thinking",
+    "type": "business interest",
+    "facts": ["Gaurav is interested in entrepreneurship and building technology-led businesses.", "He thinks about the work required to move an idea toward a useful product."],
+    "status": "current interest",
+    "exhibitId": "entrepreneur"
+  },
+  {
+    "id": "shri-krishna-sales-idea",
+    "title": "Software for Shri Krishna Sales",
+    "type": "potential application",
+    "facts": ["Gaurav has an interest in exploring software for Shri Krishna Sales.", "Inventory management, customer management, billing, and operational efficiency are potential problem areas to investigate."],
+    "status": "idea / potential application — no outcome or implementation is claimed",
+    "exhibitId": "entrepreneur"
+  }
+]

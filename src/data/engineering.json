@@ -1,0 +1,26 @@
+[
+  {
+    "id": "arduino-experiments",
+    "title": "Arduino learning and experiments",
+    "type": "technical experiment",
+    "facts": ["Gaurav has learned through Arduino and hands-on technology experiments.", "These experiments explore how code and hardware can make a system respond."],
+    "technologies": ["Arduino", "Programming", "Hardware"],
+    "exhibitId": "builder"
+  },
+  {
+    "id": "frontend-development",
+    "title": "Frontend development",
+    "type": "engineering interest",
+    "facts": ["Gaurav builds frontend interfaces with React and Tailwind.", "Frontend development is part of his broader interest in building technology projects."],
+    "technologies": ["React", "Tailwind", "Frontend"],
+    "exhibitId": "builder"
+  },
+  {
+    "id": "ai-data-exploration",
+    "title": "AI and data-science exploration",
+    "type": "learning experience",
+    "facts": ["Gaurav is interested in AI and data science.", "He is learning how models, data, and human decisions connect."],
+    "technologies": ["AI", "Data science", "Systems thinking"],
+    "exhibitId": "explorer"
+  }
+]

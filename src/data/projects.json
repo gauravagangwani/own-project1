@@ -1,0 +1,26 @@
+[
+  {
+    "id": "arduino-experiments",
+    "title": "Arduino learning and experiments",
+    "kind": "learning project",
+    "description": "Hands-on experiments with code, hardware, and responsive systems.",
+    "exhibitId": "builder",
+    "url": ""
+  },
+  {
+    "id": "frontend-development",
+    "title": "Frontend development",
+    "kind": "technical practice",
+    "description": "Building interfaces with React and Tailwind.",
+    "exhibitId": "builder",
+    "url": ""
+  },
+  {
+    "id": "shri-krishna-sales-idea",
+    "title": "Software for Shri Krishna Sales",
+    "kind": "potential application",
+    "description": "A potential exploration of operational software; no implementation or business outcome is claimed.",
+    "exhibitId": "entrepreneur",
+    "url": ""
+  }
+]

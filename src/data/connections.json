@@ -1,0 +1,24 @@
+[
+  {
+    "id": "systems-to-operations",
+    "from": "ENGINEERING",
+    "through": "Software systems and frontend development",
+    "problem": "Operational information can be difficult to organize and act on.",
+    "to": "BUSINESS",
+    "potentialValue": "Potential software for inventory, customer records, billing, and operational efficiency at Shri Krishna Sales.",
+    "status": "potential application — not a claimed implementation or result",
+    "projectId": "shri-krishna-sales-idea",
+    "exhibitId": "entrepreneur"
+  },
+  {
+    "id": "ai-to-products",
+    "from": "ENGINEERING",
+    "through": "AI and data-science exploration",
+    "problem": "Useful products need a thoughtful understanding of systems, data, and people.",
+    "to": "BUSINESS",
+    "potentialValue": "A foundation for investigating technology-led product opportunities.",
+    "status": "future direction — not a claimed product",
+    "projectId": "ai-data-exploration",
+    "exhibitId": "explorer"
+  }
+]
